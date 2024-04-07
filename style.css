@@ -430,3 +430,9 @@ footer {
 footer p {
     text-align: center;
 }
+
+/* Hobbies */
+
+.section__pic-container {
+    padding: 80px;
+}
